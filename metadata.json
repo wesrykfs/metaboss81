@@ -1,13 +1,33 @@
 {
-  "name": "Patches #986",
+  "name": "Patches #4030",
   "symbol": "PTCHS",
   "description": "Evolve, Plug in, Switch on, Join the Hunt & Stake your Claim on the Future - Now. Bounty Hunters are a collection of 8000 unique NFT's on the solana blockchain",
   "seller_fee_basis_points": 200,
-  "image": "https://arweave.net/LiMRQkH-i0fAqkgSY1kcMe7TprgC0uRZ9M2rNny1aSk",
+  "image": "https://arweave.net/GwGz2_wkxAc3wHjVge89uWGzl6gnT-WF4QC9dWSJGdY",
   "attributes": [
   {
-      "trait_type": "Type",
-      "value": "Unrevealed"
+      "trait_type": "Background",
+      "value": "Burgundy"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Default"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Subway"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Horn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Zipper"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Worm"
     }
     ],
     "category": "image",
